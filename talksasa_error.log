@@ -1,0 +1,11 @@
+2025-07-20 12:38:35 - API Error: {"Error": "412: RouteNotFoundError (No route found)"}
+Phone number or message not provided.
+2025-08-01 14:24:03 - API Error: Could not interpret numbers after plus-sign.
+2025-08-01 14:28:03 - API Error: Could not interpret numbers after plus-sign.
+2025-08-01 14:28:59 - API Error: Could not interpret numbers after plus-sign.
+2025-08-01 14:33:06 - API Error for 0721859015: Could not interpret numbers after plus-sign.
+2025-08-01 14:38:32 - API Error: Could not interpret numbers after plus-sign.
+2025-08-01 14:44:35 - API Error: Could not interpret numbers after plus-sign.
+2025-08-01 14:45:19 - API Error: Could not interpret numbers after plus-sign.
+2025-08-20 12:45:39 - cURL Error: Recv failure: Connection was reset
+2025-08-23 18:55:57 - API Error: Could not interpret numbers after plus-sign.
